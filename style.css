@@ -188,6 +188,7 @@ main h1{
     gap: 30px;
     align-items: center;
     font-size: 1.3rem;
+    margin-bottom: 40px;
 }
 
 .project-box {
